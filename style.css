@@ -9,12 +9,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 120vh;
+    height: 100vh;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: #222;
     background-image: url('https://source.unsplash.com/1600x900/?landscape');
-    font-size: 120%;
+    font-size: 100%;
   }
   
   .card {
